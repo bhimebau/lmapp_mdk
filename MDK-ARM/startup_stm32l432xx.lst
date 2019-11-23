@@ -619,16 +619,16 @@ ARM Macro Assembler    Page 10
   394 0000001C                 END
               00000000 
               00000000 
-Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=lmapp_mdk\startup_stm32l432xx_1.d -olmapp_mdk\startup_stm32l432
-xx_1.o -I.\RTE\CMSIS -I.\RTE\Compiler -I.\RTE\_lmapp_mdk -IC:\Keil_v5\ARM\PACK\
-ARM\CMSIS\5.5.1\CMSIS\Core\Include -IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\
-RTOS2\Include -IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\RTOS2\RTX\Include -IC
-:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.6.1\Include -IC:\Keil_v5\ARM\PACK\Keil\S
-TM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include --predefine="__MIC
-ROLIB SETA 1" --predefine="__UVISION_VERSION SETA 528" --predefine="_RTE_ SETA 
-1" --predefine="STM32L432xx SETA 1" --list=startup_stm32l432xx.lst RTE\Device\S
-TM32L432KCUx\startup_stm32l432xx.s
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp.sp --apcs=
+interwork --depend=lmapp_mdk\startup_stm32l432xx_1.d -olmapp_mdk\startup_stm32l
+432xx_1.o -I.\RTE\CMSIS -I.\RTE\Compiler -I.\RTE\_lmapp_mdk -IC:\Keil_v5\ARM\PA
+CK\ARM\CMSIS\5.6.0\CMSIS\Core\Include -IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMS
+IS\RTOS2\Include -IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Include 
+-IC:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.6.2\Include -IC:\Keil_v5\ARM\PACK\Kei
+l\STM32L4xx_DFP\2.2.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include --predefine="__
+RTX SETA 1" --predefine="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA
+ 529" --predefine="_RTE_ SETA 1" --predefine="STM32L432xx SETA 1" --list=startu
+p_stm32l432xx.lst RTE\Device\STM32L432KCUx\startup_stm32l432xx.s
 
 
 
@@ -1500,4 +1500,4 @@ Symbol: __main
       At line 190 in file RTE\Device\STM32L432KCUx\startup_stm32l432xx.s
 Comment: __main used once
 2 symbols
-424 symbols in table
+425 symbols in table

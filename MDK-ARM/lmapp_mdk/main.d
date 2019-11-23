@@ -35,4 +35,4 @@ lmapp_mdk\main.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_tim_ex.h
 lmapp_mdk\main.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart.h
 lmapp_mdk\main.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart_ex.h
 lmapp_mdk\main.o: .\RTE\_lmapp_mdk\RTE_Components.h
-lmapp_mdk\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\RTOS2\Include\cmsis_os2.h
+lmapp_mdk\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h

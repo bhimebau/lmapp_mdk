@@ -1,4 +1,4 @@
-lmapp_mdk\eventrecorder.o: C:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.6.1\Source\EventRecorder.c
+lmapp_mdk\eventrecorder.o: C:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.6.2\Source\EventRecorder.c
 lmapp_mdk\eventrecorder.o: .\RTE\_lmapp_mdk\RTE_Components.h
 lmapp_mdk\eventrecorder.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h
 lmapp_mdk\eventrecorder.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l432xx.h
@@ -35,5 +35,5 @@ lmapp_mdk\eventrecorder.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_tim
 lmapp_mdk\eventrecorder.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart.h
 lmapp_mdk\eventrecorder.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart_ex.h
 lmapp_mdk\eventrecorder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-lmapp_mdk\eventrecorder.o: C:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.6.1\Include\EventRecorder.h
+lmapp_mdk\eventrecorder.o: C:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.6.2\Include\EventRecorder.h
 lmapp_mdk\eventrecorder.o: .\RTE\Compiler\EventRecorderConf.h

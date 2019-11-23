@@ -1,5 +1,5 @@
-lmapp_mdk\os_systick.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\RTOS2\Source\os_systick.c
-lmapp_mdk\os_systick.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\RTOS2\Include\os_tick.h
+lmapp_mdk\os_systick.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Source\os_systick.c
+lmapp_mdk\os_systick.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h
 lmapp_mdk\os_systick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 lmapp_mdk\os_systick.o: .\RTE\_lmapp_mdk\RTE_Components.h
 lmapp_mdk\os_systick.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h

@@ -49,6 +49,7 @@ UART_HandleTypeDef hlpuart1;
 TIM_HandleTypeDef htim2;
 
 /* USER CODE BEGIN PV */
+// Here is a test commit. 
 
 /* USER CODE END PV */
 
